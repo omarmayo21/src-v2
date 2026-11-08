@@ -1,0 +1,170 @@
+{
+  "generatedAt": "2026-11-08T23:27:36.837Z",
+  "sourcePdfs": [
+    "D:\\front end dev\\src-up\\SRFEC BRICKS BRANDBOOK.pdf",
+    "D:\\front end dev\\src-up\\Srfec Company Profile.pdf"
+  ],
+  "assets": [
+    {
+      "slot": "Home Hero",
+      "file": "hero/placeholder-hero-architectural-stone.webp",
+      "size": "1600x1000",
+      "status": "Cropped Mockup (Real Architecture)",
+      "source": "Brand Book Page 14 (Architectural Stone Facade)"
+    },
+    {
+      "slot": "Factory Mosaic 01 & Cap 01",
+      "file": "factory/placeholder-factory-cnc-cutting.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Granite Cantilever Architecture)",
+      "source": "Brand Book Page 14 (Post 3 Architecture)"
+    },
+    {
+      "slot": "Factory Mosaic 02 & Cap 02",
+      "file": "factory/placeholder-factory-carving-shaping.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Chiseled Granite Slabs)",
+      "source": "Brand Book Page 12 (Engraved Stone Block)"
+    },
+    {
+      "slot": "Factory Mosaic 03",
+      "file": "factory/placeholder-factory-polishing-line.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Polished Granite Ledge)",
+      "source": "Brand Book Page 12 (Polished Stone Base)"
+    },
+    {
+      "slot": "Factory Mosaic 04",
+      "file": "factory/placeholder-factory-quality-inspection.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Vertical Stone Slabs)",
+      "source": "Brand Book Page 13 (Sample Slabs Display)"
+    },
+    {
+      "slot": "Project 01",
+      "file": "projects/placeholder-project-01.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Granite Curtain Wall)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "Project 02",
+      "file": "projects/placeholder-project-02.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Vein-matched Marble Lobby)",
+      "source": "Brand Book Page 13"
+    },
+    {
+      "slot": "Project 03",
+      "file": "projects/placeholder-project-03.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Architectural Stone Portal)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "Project 04",
+      "file": "projects/placeholder-project-04.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Granite Cantilever Structure)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "Project 05",
+      "file": "projects/placeholder-project-05.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Polished Slab Displays)",
+      "source": "Brand Book Page 13"
+    },
+    {
+      "slot": "Project 06",
+      "file": "projects/placeholder-project-06.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Veined Marble Detailing)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "Project 07",
+      "file": "projects/placeholder-project-07.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Raw Quarry Stone Blocks)",
+      "source": "Brand Book Page 13"
+    },
+    {
+      "slot": "Project 08",
+      "file": "projects/placeholder-project-08.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Natural Travertine Surface)",
+      "source": "Brand Book Page 12"
+    },
+    {
+      "slot": "Project 09",
+      "file": "projects/placeholder-project-09.webp",
+      "size": "1200x900",
+      "status": "Cropped Mockup (Granite Stone Cladding)",
+      "source": "Brand Book Page 12"
+    },
+    {
+      "slot": "Stones 01 (Marble)",
+      "file": "stones/placeholder-stone-marble.webp",
+      "size": "900x700",
+      "status": "Cropped Mockup (Veined Marble Slab)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "Stones 02 (Granite)",
+      "file": "stones/placeholder-stone-granite.webp",
+      "size": "900x700",
+      "status": "Cropped Mockup (Natural Granite Grains)",
+      "source": "Brand Book Page 12"
+    },
+    {
+      "slot": "Stones 03 (Travertine)",
+      "file": "stones/placeholder-stone-travertine.webp",
+      "size": "900x700",
+      "status": "Cropped Mockup (Porous Travertine Stone)",
+      "source": "Brand Book Page 12"
+    },
+    {
+      "slot": "Stones 04 (Onyx)",
+      "file": "stones/placeholder-stone-onyx.webp",
+      "size": "900x700",
+      "status": "Procedural Polished Stone (Banded Amber Crystal)",
+      "source": "Procedural Natural Stone Texture"
+    },
+    {
+      "slot": "Stones 05 (Limestone)",
+      "file": "stones/placeholder-stone-limestone.webp",
+      "size": "900x700",
+      "status": "Procedural Polished Stone (Sedimentary Cream Grain)",
+      "source": "Procedural Natural Stone Texture"
+    },
+    {
+      "slot": "About Story Visual",
+      "file": "misc/placeholder-story-heritage.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Quarry Stone Blocks)",
+      "source": "Brand Book Page 13"
+    },
+    {
+      "slot": "About Vision Visual",
+      "file": "misc/placeholder-vision-future.webp",
+      "size": "1200x800",
+      "status": "Cropped Mockup (Modern Stone Architecture)",
+      "source": "Brand Book Page 14"
+    },
+    {
+      "slot": "About CEO Portrait",
+      "file": "ceo/placeholder-ceo-portrait.webp",
+      "size": "800x1000",
+      "status": "Architectural Stone Silhouette (Placeholder)",
+      "source": "Brand Book Page 12 Mockup Backdrop"
+    },
+    {
+      "slot": "Contact Map",
+      "file": "map.jpg",
+      "size": "800x500",
+      "status": "Architectural Navy/Gold Map Visual",
+      "source": "Coordinates: Riyadh, Saudi Arabia"
+    }
+  ]
+}
